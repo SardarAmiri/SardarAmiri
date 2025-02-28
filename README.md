@@ -4,7 +4,6 @@ Junior Software Engineer
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sardar-amiri/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sardaramiri1122@gmail.com)
-[![Organization](https://img.shields.io/badge/Portfoilo)](https://amiri-portfolio.netlify.app/)
 
 ## 🎯 Mission
 Continuously learn, collaborate effectively, deliver high-quality code, troubleshoot issues, and contribute positively to the team.
