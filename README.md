@@ -5,7 +5,7 @@ Junior Software Engineer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/sardar-amiri/)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:sardaramiri1122@gmail.com)
 
-##About Me
+# About Me
 I’m Sardar Amiri, a dedicated and passionate Full-Stack Software Developer with a strong academic foundation and hands-on experience in building dynamic, high-quality applications. I hold both a Bachelor’s and Master’s degree in Computer Science, along with full-stack development certifications from Code Institute and Northcoders.
 
 I have experience designing and developing web applications using modern technologies, including:
